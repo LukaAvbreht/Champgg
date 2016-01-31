@@ -1,9 +1,10 @@
 __author__ = 'Luka'
 import Pridobivanje
 
-shrani('http://champion.gg/statistics/#?sortBy=general.winPercent&order=descend&roleSort=','champgg.txt')
+Pridobivanje.shrani('http://champion.gg/statistics/#?sortBy=general.winPercent&order=descend&roleSort=','champgg.txt')
+sez = dict()
 
-with open('chamogg.txt', encoding="UTF8") as vhod:
+with open('champgg.txt', encoding="UTF8") as vhod:
     print('karkoli')
 
 
