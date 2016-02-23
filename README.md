@@ -2,6 +2,11 @@
 
 Projekt pri predmetu Programiranje 1 namenjen primerjavi razlicnih karaterjev v priljubljeni racunalniski igri League of legends
 Patch 6.3
+Spodaj bomo namesto besede League of legends uporabljali okrajšavo lol
+
+## Kaj sploh je LoL + kratka pravila
+
+Igra lol je priljubljena računalniška igra kjer se spopadeta dve ekipi (vsaka s po petimi igralci). Vsak izmed igralcev si izbere svojega heroja (champion), in vsak heroj ima svoje posebne zmoznosti.V vsaki ekipi si praviloma igralci razdelijo 5 razlicnih nalog (role-ov) (top-lane, mid-lane, adc, support, in pa jungle). Njuin cilj pa je nasprotni ekipi uničiti nasprotnikovo središče (Nexus). Ekipam to prepecujejo minioni in pa stolpi. Ko igralci uničijo ene ali druge,ali pa ubijejo nasprotnike, za to dobijo zlato, ki ga lahko zamenjajo v bazi za predmete, ki jih naredijo močnejše.
 
 ## Kaj primerjamo
 
