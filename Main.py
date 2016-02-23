@@ -16,7 +16,18 @@ a = re.search(regex, data)
 podatki = a.groupdict()["podatki"]
 
 moji = json.loads(podatki)
+podatki = list()
 
-print(moji[0])
+for i in moji:
+    slovar = dict()
+    for j in i:
+        if j == 'general':
+            for k in i['general']:
+                slovar[k] = i['general'][k]
+        else:
+            slovar[j] = i[j]
+    podatki.append(slovar)
 
-print(moji[0].keys())
+Pridobivanje.slovar_csv(podatki,'podatki.csv',podatki[0].keys())
+
+
