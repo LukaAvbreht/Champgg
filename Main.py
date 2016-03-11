@@ -36,7 +36,6 @@ def del_el_dict(slovar,element):
 
 del_el_dict(podatki,'_id')
 
-
-#Pridobivanje.slovar_csv(podatki,'podatki.csv',podatki[0].keys())
+Pridobivanje.slovar_csv(podatki,'podatki.csv',podatki[0].keys())
 
 
