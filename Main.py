@@ -28,6 +28,15 @@ for i in moji:
             slovar[j] = i[j]
     podatki.append(slovar)
 
-Pridobivanje.slovar_csv(podatki,'podatki.csv',podatki[0].keys())
+def del_el_dict(slovar,element):
+    """iz seznama slovarjov pobriše element v vsakem slovarju"""
+    for slo in slovar:
+        del slo[element]
+    return slovar
+
+del_el_dict(podatki,'_id')
+
+
+#Pridobivanje.slovar_csv(podatki,'podatki.csv',podatki[0].keys())
 
 
