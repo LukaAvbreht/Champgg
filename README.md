@@ -24,7 +24,6 @@ Za vsakega od karakterjev nas zanimajo naslednji podatki:
 * title
 * overall position
 * kills
-* id
 * total heal
 * total damage dealt to champions
 * experience
