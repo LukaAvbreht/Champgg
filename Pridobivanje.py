@@ -13,6 +13,7 @@ def shrani(naslov, ime_dat):
         with open(ime_dat , 'w', encoding= 'UTF8') as dat:
             dat.write(r.text)
 
+
 def vsebina_datoteke(ime_datoteke):
     '''Vrne niz z vsebino datoteke z danim imenom.'''
     with open(ime_datoteke) as datoteka:
