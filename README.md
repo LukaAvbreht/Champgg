@@ -1,12 +1,13 @@
 # Champgg
 
 Projekt pri predmetu Programiranje 1 namenjen primerjavi razlicnih karaterjev v priljubljeni racunalniski igri League of legends
-Patch 6.3
-Spodaj bomo namesto besede League of legends uporabljali okrajšavo lol
+Patch 6.11
+
+Spodaj bomo namesto besede League of legends uporabljali okrajšavo LOL
 
 ## Kaj sploh je LoL + kratka pravila
 
-Igra lol je priljubljena računalniška igra kjer se spopadeta dve ekipi (vsaka s po petimi igralci). Vsak izmed igralcev si izbere svojega heroja (champion), in vsak heroj ima svoje posebne zmoznosti.V vsaki ekipi si praviloma igralci razdelijo 5 razlicnih nalog (role-ov) (top-lane, mid-lane, adc, support, in pa jungle). Njuin cilj pa je nasprotni ekipi uničiti nasprotnikovo središče (Nexus). Ekipam to prepecujejo minioni in pa stolpi. Ko igralci uničijo ene ali druge,ali pa ubijejo nasprotnike, za to dobijo zlato, ki ga lahko zamenjajo v bazi za predmete, ki jih naredijo močnejše.
+Igra LOL je priljubljena računalniška igra, v kateri se spopadeta dve ekipi (vsaka s po petimi igralci). Vsak izmed igralcev si izbere svojega junaka (champion), in vsak junak ima svoje posebne zmožnosti. V vsaki ekipi si igralci praviloma razdelijo pet razlicnih nalog (role: top-lane, mid-lane, ADC, support, in pa jungle). Cilj vsake ekipe pa je uničiti nasprotnikovo središče (Nexus). Ekipam to prepecujejo minioni in pa stolpi. Ko igralci uničijo stolpe, ali pa ubijejo minione, ter pripomorejo pri uboju nasprotnikovih junakov, dobijo za to zlato, ki ga lahko v bazi zamenjajo za predmete, ki jih naredijo močnejše.
 
 ## Kaj primerjamo
 
